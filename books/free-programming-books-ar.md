@@ -24,6 +24,7 @@
 * [SQL](#sql)
     * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
+* [Quantum Computing](#quantum-computing)
 
 
 ### Arduino
